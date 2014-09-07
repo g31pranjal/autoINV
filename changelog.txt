@@ -1,0 +1,8 @@
+1. scrap-off status and remark from database
+2. address book 
+3. customize header
+5. cleaner data transfer and operation trough objects
+...Changes to Address Book
+...Neater code for Generate . php
+...Archive : changed display from ta to tarnd
+

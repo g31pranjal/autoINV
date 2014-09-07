@@ -1,0 +1,17 @@
+hidden classes are the specially written classes basically used to tamper with 
+the existing repository of data for either changing the original data or 
+tackling a bug.
+
+1. popullate_com
+... The purpose of this class is to copy the content of one table to another.
+
+2. updateListing
+... The class was used to introduce a new data feild to the existing tables and 
+popullate that feild
+
+3. linkCorretion
+... The function was used to correct the link_to_offlinecopy feild in the table
+
+4. roundoff
+... The function to calculate net profit/loss on the the fixed sale amount because
+of rounding off of the total amount.

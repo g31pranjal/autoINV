@@ -1,0 +1,21 @@
+database : div_month
+
+sn		:	serial number
+mntID		:	unique ID for each month. eg- Feb-2013 => 0220013
+name		: 	name of the month.
+fy		:	fiscal year of the month
+gt		:	gross amount
+ta		:	total  amount (inclusive of tax)
+total_s_inv	:	total sale invoices
+total_t_inv	:	total tax invoices
+gross_s_amt	:	gross amount from the sale invoices
+total_s_amt	:	total amount from the sale invoices
+gross_t_amt	:	gross amount from the tax invoices
+total_t_amt	:	total amount from the tax invoices
+start_s_inv	:	sale invoice no. from which the month starts
+end_s_inv	:	sale invoice no. at which the month end
+start_t_inv	:	tax invoice no. from which the month starts
+end_t_inv	:	tax invoice no. at which the month end
+start_sn     	:       	serial no. from which the month starts
+end_sn         	:       	serial no. at which the month ends
+last_timestamp  	:       	last timestamp
